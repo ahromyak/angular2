@@ -1,4 +1,4 @@
 module.exports = {
     "port": 3333,
-    "server": { "baseDir": "./src/client" }
+    "server": { "baseDir": "src/client" }
 };
